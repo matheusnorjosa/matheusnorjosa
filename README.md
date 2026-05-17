@@ -41,10 +41,12 @@
 
   ## Stats
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusnorjosa&show_icons=true&theme=default&hide_
-  border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnorjosa&layout=compact&theme=de
-  fault&hide_border=true)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=matheusnorjosa&show_icons=true&theme=default&hide_bord
+  er=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnorjosa&layout=compact&theme=default
+  &hide_border=true" alt="Top Languages" />
+  </p>
 
   ## Contato
 
