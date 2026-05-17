@@ -39,14 +39,10 @@
   - **[json-to-excel-advanced](https://github.com/matheusnorjosa/json-to-excel-advanced)** — Conversor de JSON aninhado
   pra Excel multi-aba com normalização automática
 
-  ## Stats
+## Stats
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheusnorjosa&show_icons=true&theme=default&hide_bord
-  er=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnorjosa&layout=compact&theme=default
-  &hide_border=true" alt="Top Languages" />
-  </p>
+  [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusnorjosa&show_icons=true&theme=de
+  fault&hide_border=true&cache_seconds=1800)](https://github.com/matheusnorjosa)
 
   ## Contato
 
